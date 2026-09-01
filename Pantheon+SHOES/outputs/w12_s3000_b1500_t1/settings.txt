@@ -1,0 +1,7 @@
+nwalkers = 12
+nsteps = 3000
+burnin = 1500
+thin = 1
+mass_cut = 10.0
+H_0_fixed_5d_6d = 70.0
+sigma_int = 0.1

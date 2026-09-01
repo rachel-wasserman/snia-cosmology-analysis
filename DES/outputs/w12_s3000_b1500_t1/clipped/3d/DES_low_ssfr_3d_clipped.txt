@@ -1,0 +1,4 @@
+Low-sSFR hosts: clipped 3-parameter LambdaCDM
+H_0 = 69.2538 -0.3977 +0.4007
+Omega_M = 0.3159 -0.0839 +0.0746
+Omega_Lambda = 0.5456 -0.1255 +0.1215

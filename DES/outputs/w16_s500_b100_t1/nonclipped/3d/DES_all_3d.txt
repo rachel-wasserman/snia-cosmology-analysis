@@ -1,0 +1,4 @@
+All DES supernovae: 3-parameter LambdaCDM
+H_0 = 68.8056 -0.3054 +0.2802
+Omega_M = 0.3977 -0.0464 +0.0502
+Omega_Lambda = 0.6906 -0.0753 +0.0814

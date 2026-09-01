@@ -1,0 +1,7 @@
+Blue hosts: clipped 6-parameter LambdaCDM
+M_B = -19.3059 -0.0171 +0.0192
+Omega_M = 0.5518 -0.0859 +0.0764
+Omega_Lambda = 0.8949 -0.1329 +0.1226
+alpha = 0.1615 -0.0052 +0.0055
+beta = 2.5101 -0.0553 +0.0550
+gamma = 0.0677 -0.0107 +0.0106

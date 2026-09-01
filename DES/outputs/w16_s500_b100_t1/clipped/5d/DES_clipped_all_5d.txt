@@ -1,0 +1,6 @@
+All DES supernovae: clipped 5-parameter LambdaCDM
+M_B = -19.3723 -0.0114 +0.0111
+Omega_M = 0.5670 -0.0723 +0.0528
+Omega_Lambda = 0.9415 -0.1018 +0.0875
+alpha = 0.1407 -0.0032 +0.0030
+beta = 2.4048 -0.0351 +0.0389

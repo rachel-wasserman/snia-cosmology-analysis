@@ -1,0 +1,6 @@
+High-mass hosts: 5-parameter LambdaCDM
+M_B = -19.3889 -0.0125 +0.0122
+Omega_M = 0.5553 -0.0693 +0.0678
+Omega_Lambda = 0.8976 -0.1015 +0.0983
+alpha = 0.1734 -0.0042 +0.0041
+beta = 2.4331 -0.0474 +0.0491

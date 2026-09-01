@@ -1,0 +1,7 @@
+All Pantheon+SH0ES supernovae: clipped 6-parameter LambdaCDM
+M_B = -19.2694 -0.0083 +0.0077
+Omega_M = 0.2334 -0.0528 +0.0538
+Omega_Lambda = 0.4348 -0.0714 +0.0671
+alpha = 0.1399 -0.0038 +0.0041
+beta = 2.5746 -0.0425 +0.0442
+gamma = 0.0436 -0.0076 +0.0076

@@ -1,0 +1,3 @@
+High-mass hosts: clipped 2-parameter flat LambdaCDM
+H_0 = 69.2756 -0.2839 +0.2548
+Omega_M = 0.3441 -0.0114 +0.0134

@@ -1,0 +1,4 @@
+Red hosts: 3-parameter LambdaCDM
+H_0 = 69.3692 -0.3727 +0.3737
+Omega_M = 0.2758 -0.0708 +0.0703
+Omega_Lambda = 0.5370 -0.1091 +0.1077

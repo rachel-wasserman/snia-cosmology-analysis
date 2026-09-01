@@ -1,0 +1,3 @@
+Red hosts: 2-parameter flat LambdaCDM
+H_0 = 69.6072 -0.2907 +0.2893
+Omega_M = 0.3481 -0.0142 +0.0144

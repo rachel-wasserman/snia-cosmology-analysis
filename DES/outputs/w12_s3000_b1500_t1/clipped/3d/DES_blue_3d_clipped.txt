@@ -1,0 +1,4 @@
+Blue hosts: clipped 3-parameter LambdaCDM
+H_0 = 68.2290 -0.4966 +0.4970
+Omega_M = 0.3187 -0.0733 +0.0715
+Omega_Lambda = 0.5610 -0.1251 +0.1166

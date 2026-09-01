@@ -1,0 +1,4 @@
+Low-mass hosts: clipped 3-parameter LambdaCDM
+H_0 = 68.7420 -0.5752 +0.5944
+Omega_M = 0.2778 -0.1198 +0.1130
+Omega_Lambda = 0.5279 -0.1804 +0.1709
