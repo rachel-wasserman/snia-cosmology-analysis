@@ -1,0 +1,5 @@
+Blue hosts: clipped 4-parameter LambdaCDM
+M_B = -19.2006 -0.0052 +0.0052
+alpha = 0.1538 -0.0056 +0.0059
+beta = 2.9347 -0.0356 +0.0335
+gamma = 0.0681 -0.0102 +0.0113

@@ -1,0 +1,4 @@
+All ZTF supernovae: clipped 3-parameter LambdaCDM
+M_B = -19.2545 -0.0027 +0.0028
+alpha = 0.1377 -0.0028 +0.0030
+beta = 2.8405 -0.0229 +0.0245

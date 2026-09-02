@@ -1,0 +1,5 @@
+Red hosts: clipped 4-parameter LambdaCDM
+M_B = -19.2510 -0.0078 +0.0083
+alpha = 0.1604 -0.0043 +0.0040
+beta = 2.8806 -0.0309 +0.0306
+gamma = 0.0581 -0.0095 +0.0106

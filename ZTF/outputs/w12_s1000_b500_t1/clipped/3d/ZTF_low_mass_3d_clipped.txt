@@ -1,0 +1,4 @@
+Low-mass hosts: clipped 3-parameter LambdaCDM
+M_B = -19.2274 -0.0046 +0.0046
+alpha = 0.1390 -0.0050 +0.0045
+beta = 2.8375 -0.0368 +0.0350
